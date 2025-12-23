@@ -1,9 +1,11 @@
 const map = L.map('map').setView([39.74739, -105], 13);
 
+
 const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19,
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
 }).addTo(map);
+
 
 const baseballIcon = L.icon({
     iconUrl: 'https://leafletjs.com/examples/geojson/baseball-marker.png',
@@ -11,6 +13,7 @@ const baseballIcon = L.icon({
     iconAnchor: [16, 37],
     popupAnchor: [0, -28]
 });
+
 
 function onEachFeature(feature, layer) {
     let popupContent = `<p>I started out as a GeoJSON ${feature.geometry.type}, but now I'm a Leaflet vector!</p>`;
@@ -22,9 +25,9 @@ function onEachFeature(feature, layer) {
     layer.bindPopup(popupContent);
 }
 
+
 /* global campus, bicycleRental, freeBus, coorsField */
 const bicycleRentalLayer = L.geoJSON([bicycleRental, campus], {
-
     style(feature) {
         return feature.properties && feature.properties.style;
     },
@@ -44,7 +47,6 @@ const bicycleRentalLayer = L.geoJSON([bicycleRental, campus], {
 }).addTo(map);
 
 const freeBusLayer = L.geoJSON(freeBus, {
-
     filter(feature, layer) {
         if (feature.properties) {
             // If the property "underConstruction" exists and is true, return false (don't render features under construction)
@@ -57,10 +59,22 @@ const freeBusLayer = L.geoJSON(freeBus, {
 }).addTo(map);
 
 const coorsLayer = L.geoJSON(coorsField, {
-
     pointToLayer(feature, latlng) {
         return L.marker(latlng, {icon: baseballIcon});
     },
 
     onEachFeature
 }).addTo(map);
+
+
+/* On Map Click */
+var popup = L.popup();
+
+function onMapClick(e) {
+    popup
+        .setLatLng(e.latlng)
+        .setContent("You clicked the map at " + e.latlng.toString())
+        .openOn(map);
+}
+
+map.on('click', onMapClick);
