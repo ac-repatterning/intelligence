@@ -59,11 +59,15 @@ const freeBusLayer = L.geoJSON(freeBus, {
 }).addTo(map);
 
 const coorsLayer = L.geoJSON(coorsField, {
-    pointToLayer(feature, latlng) {
-        return L.marker(latlng, {icon: baseballIcon});
+    style(feature) {
+        return feature.properties && feature.properties.style;
     },
 
-    onEachFeature
+    onEachFeature,
+
+    pointToLayer(feature, latlng) {
+        return L.marker(latlng, {icon: baseballIcon});
+    }
 }).addTo(map);
 
 
