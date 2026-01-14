@@ -1,3 +1,5 @@
+// noinspection DuplicatedCode,JSUnresolvedReference
+
 const map = L.map('map').setView([39.74739, -105], 15);
 
 
