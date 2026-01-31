@@ -30,7 +30,7 @@ function onEachFeature(feature, layer) {
 
 /* global campus, bicycleRental, freeBus, coorsField */
 const bicycleRentalLayer = L.geoJSON([bicycleRental, campus], {
-    
+
     onEachFeature,
 
     pointToLayer(feature, latlng) {
