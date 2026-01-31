@@ -49,6 +49,7 @@ const bicycleRentalLayer = L.geoJSON([bicycleRental, campus], {
 }).addTo(map);
 
 const freeBusLayer = L.geoJSON(freeBus, {
+
     filter(feature, layer) {
         if (feature.properties) {
             // If the property "underConstruction" exists and is true, return false (don't render features under construction)
@@ -61,7 +62,7 @@ const freeBusLayer = L.geoJSON(freeBus, {
 }).addTo(map);
 
 const coorsLayer = L.geoJSON(coorsField, {
-    
+
     onEachFeature,
 
     pointToLayer(feature, latlng) {
@@ -72,12 +73,10 @@ const coorsLayer = L.geoJSON(coorsField, {
 
 /* On Map Click */
 var popup = L.popup();
-
 function onMapClick(e) {
     popup
         .setLatLng(e.latlng)
         .setContent("You clicked the map at " + e.latlng.toString())
         .openOn(map);
 }
-
 map.on('click', onMapClick);
