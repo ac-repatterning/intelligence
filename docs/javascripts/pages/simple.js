@@ -3,12 +3,14 @@
 const map = L.map('map').setView([39.74739, -105], 15);
 
 
+/* the base */
 L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19,
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
 }).addTo(map);
 
 
+/* setting up an icon */
 const baseballIcon = L.icon({
     iconUrl: 'https://leafletjs.com/examples/geojson/baseball-marker.png',
     iconSize: [32, 37],
@@ -17,6 +19,7 @@ const baseballIcon = L.icon({
 });
 
 
+/* each point */
 function onEachFeature(feature, layer) {
     let popupContent = `<p>I started out as a GeoJSON ${feature.geometry.type}, but now I'm a Leaflet vector!</p>`;
 
