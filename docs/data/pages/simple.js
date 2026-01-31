@@ -12,6 +12,13 @@ var freeBus = {
             },
             "properties": {
                 "popupContent": "This is a free bus line that will take you across downtown.",
+                "style": {
+                    weight: 2,
+                    color: "#1c1b1b",
+                    opacity: 1,
+                    fillColor: "#c81717",
+                    fillOpacity: 0.8
+                },
                 "underConstruction": false
             },
             "id": 1
@@ -27,6 +34,13 @@ var freeBus = {
             },
             "properties": {
                 "popupContent": "This is a free bus line that will take you across downtown.",
+                "style": {
+                    weight: 2,
+                    color: "#1c1b1b",
+                    opacity: 1,
+                    fillColor: "#c81717",
+                    fillOpacity: 0.8
+                },
                 "underConstruction": true
             },
             "id": 2
@@ -42,6 +56,13 @@ var freeBus = {
             },
             "properties": {
                 "popupContent": "This is a free bus line that will take you across downtown.",
+                "style": {
+                    weight: 2,
+                    color: "#1c1b1b",
+                    opacity: 1,
+                    fillColor: "#c81717",
+                    fillOpacity: 0.8
+                },
                 "underConstruction": false
             },
             "id": 3
