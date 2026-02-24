@@ -4,8 +4,7 @@ icon: lucide/grip
 
 # measures
 
-The continuous and split ...
-
+The raw river level measures over time; continuous and split.
 
 <br>
 <br>
