@@ -54,17 +54,22 @@ nav = [
     { "<img src='https://github.com/theartificialintelligenceunit/.github/raw/refs/heads/master/profile/start.svg' alt='Introduction'>" = [
         "index.md",
         { "" = [
-        "sections/assets/index.md"
-        ] },
+            "sections/assets/index.md"
+        ]},
         { "" = [
             "sections/measures/index.md",
             "sections/measures/continuous.md"
-        ] },
+        ]},
+        { "" = [
+            "sections/risk/index.md",
+            "sections/risk/curves.md",
+            "sections/risk/cells.md"
+        ]},
         { "" = [
             "sections/detection/index.md",
             "sections/detection/cells.md",
             "sections/detection/graphs.md"
-        ] }
+        ]}
     ]}
 ]
 
