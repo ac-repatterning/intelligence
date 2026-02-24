@@ -8,7 +8,7 @@ td {
 }
 
 div.md-sidebar--primary {
-    width: 135px;
+    width: 125px;
 }
 
 .md-typeset abbr {
@@ -27,6 +27,10 @@ div.md-sidebar--primary {
 
 .md-typeset table:not([class]) {
     border: 0;
+}
+
+.md-ellipsis {
+    color: white;
 }
 
 .md-typeset h1 {
