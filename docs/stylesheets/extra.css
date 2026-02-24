@@ -73,3 +73,16 @@ div.md-sidebar--primary {
     margin-top: 25px;
     height: 2.5rem;
 }
+
+@media screen and (min-width:76.25em) {
+    [dir=ltr] .md-sidebar--primary:not([hidden])~.md-content>.md-content__inner {
+        margin-left:4.25rem
+    }
+    [dir=ltr] .md-sidebar--secondary:not([hidden])~.md-content>.md-content__inner,
+    [dir=rtl] .md-sidebar--primary:not([hidden])~.md-content>.md-content__inner {
+        margin-right:1.2rem
+    }
+    [dir=rtl] .md-sidebar--secondary:not([hidden])~.md-content>.md-content__inner {
+        margin-left:4.25rem
+    }
+}
