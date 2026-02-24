@@ -14,7 +14,7 @@ site_dir = "site"
 # The site_name is shown in the page header and the browser window title
 #
 # Read more: https://zensical.org/docs/setup/basics/#site_name
-site_name = "INTELLIGENCE"
+site_name = "<span style='color: black;'>INTELLIGENCE</span>"
 
 # The site_description is included in the HTML head and should contain a
 # meaningful description of the site content for use by search engines.
@@ -51,7 +51,7 @@ copyright = """
 # Read more: https://zensical.org/docs/setup/navigation/
 nav = [
     { "<img src='https://github.com/theartificialintelligenceunit/.github/raw/refs/heads/master/profile/start.svg' alt='Introduction'>" = "index.md" },
-    {"all" = [
+    {"<span style='color: black;'>...</span>" = [
         { "" = [
         "sections/assets/index.md"
         ] },
