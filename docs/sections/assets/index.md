@@ -2,7 +2,7 @@
 icon: lucide/earth
 ---
 
-# 
+# assets
 
 <div class="grid cards" markdown>
 
