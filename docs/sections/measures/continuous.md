@@ -1,5 +1,5 @@
 ---
-icon: lucide/grip
+icon: lucide/chart-spline
 ---
 
 # Continuous
