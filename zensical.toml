@@ -50,8 +50,9 @@ copyright = """
 #
 # Read more: https://zensical.org/docs/setup/navigation/
 nav = [
-    { "<img src='https://github.com/theartificialintelligenceunit/.github/raw/refs/heads/master/profile/start.svg' alt='Introduction'>" = "index.md" },
-    {"<span style='color: black;'>...</span>" = [
+    # { "<img src='https://github.com/theartificialintelligenceunit/.github/raw/refs/heads/master/profile/start.svg' alt='Introduction'>" = "index.md" },
+    { "<img src='https://github.com/theartificialintelligenceunit/.github/raw/refs/heads/master/profile/start.svg' alt='Introduction'>" = [
+        "index.md",
         { "" = [
         "sections/assets/index.md"
         ] },
@@ -332,7 +333,7 @@ quote = "fontawesome/solid/quote-left"
 # ----------------------------------------------------------------------------
 [[project.extra.social]]
 icon = "fontawesome/brands/github"
-link = "https://github.com/theartificialintelligenceunit/systems"
+link = "https://github.com/ac-repatterning"
 
 
 # Footnotes
