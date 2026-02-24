@@ -1,6 +1,3 @@
----
-icon: lucide/rocking-chair
----
 
 # RIVERS
 
