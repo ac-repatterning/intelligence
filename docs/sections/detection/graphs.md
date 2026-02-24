@@ -1,5 +1,5 @@
 ---
-icon: lucide/microscope
+icon: lucide/chart-scatter
 ---
 
 # Graphs of detections
