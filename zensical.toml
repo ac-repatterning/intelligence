@@ -55,10 +55,13 @@ nav = [
       "sections/assets/index.md"
   ]},
   { "MEASURES" = [
-      "sections/measures/index.md"
+      "sections/measures/index.md",
+      "sections/measures/continuous.md"
   ]},
   { "DETECTION" = [
-      "sections/detection/index.md"
+      "sections/detection/index.md",
+      "sections/detection/cells.md",
+      "sections/detection/graphs.md"
   ]}
 ]
 
