@@ -62,6 +62,7 @@ nav = [
         ]},
         { "" = [
             "sections/risk/index.md",
+            "sections/risk/maps.md",
             "sections/risk/curves.md",
             "sections/risk/cells.md"
         ]},
