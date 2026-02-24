@@ -10,8 +10,6 @@
 
 docs_dir = "docs"
 site_dir = "site"
-repo_url = "https://github.com/speculations/mapping"
-repo_name = "speculations/mapping"
 
 # The site_name is shown in the page header and the browser window title
 #
