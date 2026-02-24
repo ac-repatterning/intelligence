@@ -2,9 +2,8 @@
 icon: lucide/rocking-chair
 ---
 
-# Mapping
+# RIVERS
 
-The purpose of these ...
 
 <br>
 <br>
