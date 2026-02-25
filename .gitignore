@@ -140,7 +140,3 @@ vite.config.ts.timestamp-*
 
 # IntelliJ IDEA
 .idea
-
-# Exclude
-warehouse
-assets.*
