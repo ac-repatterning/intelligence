@@ -13,6 +13,7 @@
 *[AI]: Artificial Intelligence
 *[ML]: Machine Learning
 *[SEPA]: Scottish Environment Protection Agency
+*[SGoRR]: Scottish Government Resilience Room
 *[NSWWS]: National Severe Weather Warnings Service
 *[RSS]: Really Simple Syndication
 *[cefas]: Centre for Environment Fisheries and Aquaculture Science
