@@ -6,7 +6,7 @@ icon: lucide/earth
 
 <div class="grid cards" markdown>
 
--   :material-format-font:{ .lg .middle } __ESRI__
+-   :fontawesome-solid-earth-europe:{ .lg .middle } __ESRI__
 
     ---
 
@@ -14,7 +14,7 @@ icon: lucide/earth
 
     <a href="https://d3shei3jylo2wo.cloudfront.net/warehouse/caution/maps/esri.html" onclick="window.open('https://d3shei3jylo2wo.cloudfront.net/warehouse/caution/maps/esri.html', 'newwindow', 'width=1325,height=695'); return false;">ESRI</a>
 
--   :material-water:{ .lg .middle } __OPEN STREET__
+-   :fontawesome-solid-earth-europe:{ .lg .middle } __OPEN STREET__
 
     ---
 
@@ -23,7 +23,7 @@ icon: lucide/earth
     <a data-preview href="https://d3shei3jylo2wo.cloudfront.net/warehouse/caution/maps/open-street-map.html" onclick="window.open('https://d3shei3jylo2wo.cloudfront.net/warehouse/caution/maps/open-street-map.html', 'newwindow', 'width=1325,height=695'); return false;">OPEN STREET MAP</a>
 
 
--   :material-format-font:{ .lg .middle } __MM SPM ORDNANCE SURVEY__
+-   :fontawesome-solid-earth-europe:{ .lg .middle } __MM SPM ORDNANCE SURVEY__
 
     ---
 
@@ -31,7 +31,7 @@ icon: lucide/earth
 
     <a data-preview href="https://d3shei3jylo2wo.cloudfront.net/warehouse/caution/maps/mm-spm-ordnance-survey.html" onclick="window.open('https://d3shei3jylo2wo.cloudfront.net/warehouse/caution/maps/mm-spm-ordnance-survey.html', 'newwindow', 'width=1325,height=695'); return false;">MM SPM ORDNANCE SURVEY MAP</a>
 
-- :fontawesome-solid-person-falling-burst:{ .lg .middle } __VML SPM F RASTER ORDNANCE SURVEY MAP__
+-   :fontawesome-solid-earth-europe:{ .lg .middle } __VML SPM F RASTER ORDNANCE SURVEY MAP__
 
     ---
 
