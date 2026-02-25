@@ -30,7 +30,7 @@ site_author = "greyhypotheses"
 # The site_url is the canonical URL for your site. When building online
 # documentation you should set this.
 # Read more: https://zensical.org/docs/setup/basics/#site_url
-site_url = "https://ac-repatterning.github.io/unit"
+site_url = "https://ac-repatterning.github.io/intelligence"
 
 # The copyright notice appears in the page footer and can contain an HTML
 # fragment.
@@ -339,7 +339,7 @@ quote = "fontawesome/solid/quote-left"
 # ----------------------------------------------------------------------------
 [[project.extra.social]]
 icon = "fontawesome/brands/github"
-link = "https://github.com/ac-repatterning"
+link = "https://github.com/ac-repatterning/intelligence"
 
 
 # Footnotes
