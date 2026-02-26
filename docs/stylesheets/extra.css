@@ -31,6 +31,7 @@ div.md-sidebar--primary {
 
 .md-ellipsis {
     color: white;
+    overflow: hidden;
 }
 
 .md-typeset h1 {
