@@ -2,7 +2,7 @@
 icon: lucide/microscope
 ---
 
-# detection
+# anomalies
 
 Detecting anomalies, missing measures.
 
