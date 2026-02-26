@@ -29,3 +29,4 @@
 *[YAML]: YAML Ain't Markup Language
 *[JSON]: JavaScript Object Notation
 *[A&E]: Accident & Emergency
+*[AD]: Anomaly Detection

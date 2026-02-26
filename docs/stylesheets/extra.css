@@ -16,7 +16,8 @@ div.md-sidebar--primary {
 }
 
 .md-typeset .grid {
-    grid-gap: 2.1rem;
+    grid-gap: 2.95rem;
+    width: 935px;
 }
 
 .md-typeset .grid.cards>ol>li,
@@ -31,6 +32,7 @@ div.md-sidebar--primary {
 
 .md-ellipsis {
     color: white;
+    overflow: hidden;
 }
 
 .md-typeset h1 {

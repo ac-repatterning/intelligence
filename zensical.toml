@@ -53,23 +53,28 @@ nav = [
     # { "<img src='https://github.com/theartificialintelligenceunit/.github/raw/refs/heads/master/profile/start.svg' alt='Introduction'>" = "index.md" },
     { "<img src='https://github.com/theartificialintelligenceunit/.github/raw/refs/heads/master/profile/start.svg' alt='Introduction'>" = [
         "index.md",
-        { "" = [
+        { "assets" = [
             "sections/assets/index.md"
         ]},
-        { "" = [
+        { "measures" = [
             "sections/measures/index.md",
             "sections/measures/continuous.md"
         ]},
-        { "" = [
+        { "risk" = [
             "sections/risk/index.md",
             "sections/risk/maps.md",
             "sections/risk/curves.md",
             "sections/risk/cells.md"
         ]},
-        { "" = [
+        { "anomalies" = [
             "sections/detection/index.md",
             "sections/detection/cells.md",
             "sections/detection/graphs.md"
+        ]},
+        { "experts" = [
+            "sections/expert/index.md",
+            { "anomalies" = "sections/expert/detection.md" },
+            { "drift" = "sections/expert/drift.md" }
         ]}
     ]}
 ]
@@ -279,7 +284,7 @@ features = [
     # When navigation integration for the table of contents is enabled, it is
     # always rendered as part of the navigation sidebar on the left.
     # https://zensical.org/docs/setup/navigation/#navigation-integration
-    #"toc.integrate",
+    # "toc.integrate",
 ]
 
 # ----------------------------------------------------------------------------
