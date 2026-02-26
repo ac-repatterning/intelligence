@@ -6,7 +6,7 @@ icon: lucide/sliders-horizontal
 
 <iframe style="border: 0; width: 745px; height: 625px;" src="https://d3shei3jylo2wo.cloudfront.net/src/drift/graphs.html"></iframe>
 
-!!! note "Graph Notes"
+??? note "Graph Notes"
     
     The drift of each gauge's time series is quantified via (a) the Jensen-Shannon Distance $J_{dist}$, and (b) the Wasserstein Metric $W_{p}$.<br><br>
     
