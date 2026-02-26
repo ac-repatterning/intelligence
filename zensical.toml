@@ -53,32 +53,28 @@ nav = [
     # { "<img src='https://github.com/theartificialintelligenceunit/.github/raw/refs/heads/master/profile/start.svg' alt='Introduction'>" = "index.md" },
     { "<img src='https://github.com/theartificialintelligenceunit/.github/raw/refs/heads/master/profile/start.svg' alt='Introduction'>" = [
         "index.md",
-        { "" = [
+        { "assets" = [
             "sections/assets/index.md"
         ]},
-        { "" = [
+        { "measures" = [
             "sections/measures/index.md",
             "sections/measures/continuous.md"
         ]},
-        { "" = [
+        { "risk" = [
             "sections/risk/index.md",
             "sections/risk/maps.md",
             "sections/risk/curves.md",
             "sections/risk/cells.md"
         ]},
-        { "" = [
+        { "anomalies" = [
             "sections/detection/index.md",
             "sections/detection/cells.md",
             "sections/detection/graphs.md"
         ]},
-        { "" = [
+        { "experts" = [
             "sections/expert/index.md",
-            { "" = [
-                "sections/expert/detection-e-scores.md",
-                "sections/expert/detection-e-percentiles.md",
-                "sections/expert/detection-pe.md"
-            ]},
-            "sections/expert/drift.md"
+            { "anomalies" = "sections/expert/detection.md" },
+            { "drift" = "sections/expert/drift.md" }
         ]}
     ]}
 ]
