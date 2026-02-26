@@ -70,6 +70,15 @@ nav = [
             "sections/detection/index.md",
             "sections/detection/cells.md",
             "sections/detection/graphs.md"
+        ]},
+        { "" = [
+            "sections/expert/index.md",
+            { "" = [
+                "sections/expert/detection-e-scores.md",
+                "sections/expert/detection-e-percentiles.md",
+                "sections/expert/detection-pe.md"
+            ]},
+            "sections/expert/drift.md"
         ]}
     ]}
 ]
