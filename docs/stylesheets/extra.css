@@ -8,7 +8,13 @@ td {
 }
 
 div.md-sidebar--primary {
-    width: 125px;
+    width: 105px;
+}
+
+.md-nav__icon {
+    font-size:.9rem;
+    height:1.250rem;
+    width:1.250rem
 }
 
 .md-typeset abbr {
