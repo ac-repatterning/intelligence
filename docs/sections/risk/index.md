@@ -2,7 +2,7 @@
 icon: lucide/octagon-alert
 ---
 
-# risk
+# risk: rates
 
 These graphs summarise the latest, overarching, states.  Alternative, use the [tables](cells.md){ data-preview } to swiftly determine *gauge points* of concern.
 
