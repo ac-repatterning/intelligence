@@ -63,9 +63,7 @@ nav = [
             { "cells" = "sections/risk/cells.md" }
         ]},
         { "anomalies" = [
-            "sections/detection/index.md",
-            "sections/detection/cells.md",
-            "sections/detection/graphs.md"
+            "sections/detection/index.md"
         ]},
         { "experts" = [
             "sections/expert/index.md",
