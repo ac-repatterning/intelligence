@@ -4,9 +4,7 @@
 
 <div style="margin-left: 65px;" class="grid cards" markdown>
 
--   __ __
-
-    ---
+-   
 
     Subject Experts: SEPA, SGoRR Members<br>
     Research, Development, Deployment: ANONYMOUS[^1]
