@@ -54,8 +54,7 @@ nav = [
     { "<img src='https://github.com/theartificialintelligenceunit/.github/raw/refs/heads/master/profile/start.svg' alt='Introduction'>" = [
         "index.md",
         { "measures" = [
-            "sections/measures/index.md",
-            "sections/measures/continuous.md"
+            "sections/measures/index.md"
         ]},
         { "risk" = [
             "sections/risk/index.md",
