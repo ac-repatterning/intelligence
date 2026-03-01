@@ -380,6 +380,8 @@ emoji_generator = "zensical.extensions.emoji.to_svg"
 [project.markdown_extensions.pymdownx.snippets]
 auto_append = ["includes/abbreviations.md"]
 
-# Permalink
+# Permalink [https://github.com/Python-Markdown/markdown/blob/master/docs/extensions/toc.md]
 [project.markdown_extensions.toc]
-permalink =  true
+title = "THIS PAGE"
+permalink = true
+toc_depth = 1
