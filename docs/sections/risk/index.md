@@ -26,11 +26,11 @@ to quickly pinpoint concerning areas.  Alternatively, use the table &Rarr;
 
 <div class="grid cards" markdown>
 
--  :fontawesome-solid-table-cells:{ .lg .middle } &nbsp; <a href="https://d3shei3jylo2wo.cloudfront.net/src/caution/cells-increases.html" onclick="window.open('https://d3shei3jylo2wo.cloudfront.net/src/caution/cells-increases.html', 'newwindow', 'width=1325,height=695'); return false;">table</a>
+-  :fontawesome-solid-table-cells:{ .lg .middle } &nbsp; <a href="https://d3shei3jylo2wo.cloudfront.net/src/caution/cells-increases.html" onclick="window.open('https://d3shei3jylo2wo.cloudfront.net/src/caution/cells-increases.html', 'newwindow', 'width=1325,height=695'); return false;">increases</a>
 
     ---
 
--  :fontawesome-solid-table-cells:{ .lg .middle } &nbsp; <a href="https://d3shei3jylo2wo.cloudfront.net/src/caution/cells-decreases.html" onclick="window.open('https://d3shei3jylo2wo.cloudfront.net/src/caution/cells-decreases.html', 'newwindow', 'width=1325,height=695'); return false;">table</a>
+-  :fontawesome-solid-table-cells:{ .lg .middle } &nbsp; <a href="https://d3shei3jylo2wo.cloudfront.net/src/caution/cells-decreases.html" onclick="window.open('https://d3shei3jylo2wo.cloudfront.net/src/caution/cells-decreases.html', 'newwindow', 'width=1325,height=695'); return false;">decreases</a>
 
     ---
 
