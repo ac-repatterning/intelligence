@@ -22,8 +22,8 @@ div.md-sidebar--primary {
 }
 
 .md-typeset .grid {
-    grid-gap: 2.95rem;
-    width: 935px;
+    grid-gap: 1.95rem;
+    width: 735px;
 }
 
 .md-typeset .grid.cards>ol>li,
