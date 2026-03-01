@@ -4,7 +4,11 @@ icon: lucide/microscope
 
 # anomalies
 
-A set of plausible anomalies might be spikes, jumps, etc.  The metrics apply to the latest $60$ days; an adjustable variable.
+A set of plausible anomalies might be spikes, jumps, etc.  The metrics apply to the latest _60_ days; an adjustable variable.
+
+<br>
+
+## artefacts
 
 <div class="grid cards" markdown>
 
