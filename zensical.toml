@@ -55,12 +55,7 @@ nav = [
         "index.md",
         "sections/measures/index.md",
         "sections/detection/index.md",
-        { "risk" = [
-            "sections/risk/index.md",
-            { "maps" = "sections/risk/maps.md" },
-            { "curves" = "sections/risk/curves.md" },
-            { "cells" = "sections/risk/cells.md" }
-        ]},
+        "sections/risk/index.md",
         { "experts" = [
             "sections/expert/index.md",
             { "anomalies" = "sections/expert/detection.md" },
