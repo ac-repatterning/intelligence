@@ -61,9 +61,7 @@ nav = [
             { "anomalies" = "sections/expert/detection.md" },
             { "drift" = "sections/expert/drift.md" }
         ]},
-        { "assets" = [
-            "sections/assets/index.md"
-        ]}
+        "sections/assets/index.md"
     ]}
 ]
 
