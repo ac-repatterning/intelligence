@@ -4,6 +4,11 @@ icon: lucide/earth
 
 # assets
 
+!!! tip "Important"
+    
+    The schools layer is currently disabled because the location data of some schools is incorrect.  The layer will be enabled once a new data set is in place.
+
+
 <div class="grid cards" markdown>
 
 -  :fontawesome-solid-earth-europe:{ .lg .middle } __VML SPM RASTER ORDNANCE SURVEY__
