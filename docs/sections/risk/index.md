@@ -47,13 +47,13 @@ Per gauge station, the <a href="https://d3shei3jylo2wo.cloudfront.net/src/cautio
 
 <div class="grid cards" markdown>
 
--   :fontawesome-solid-earth-europe:{ .lg .middle } __VML SPM F RASTER ORDNANCE SURVEY MAP__
+-   :fontawesome-solid-earth-europe:{ .lg .middle } __VML SPM RASTER ORDNANCE SURVEY MAP__
 
     ---
 
     VML SPM F RASTER ORDNANCE SURVEY MAP background.
 
-    <a data-preview href="https://d3shei3jylo2wo.cloudfront.net/warehouse/caution/maps/vml-spm-f-raster-ordnance-survey.html" onclick="window.open('https://d3shei3jylo2wo.cloudfront.net/warehouse/caution/maps/vml-spm-f-raster-ordnance-survey.html', 'newwindow', 'width=1325,height=695'); return false;">VML SPM F RASTER ORDNANCE SURVEY MAP</a>
+    <a data-preview href="https://d3shei3jylo2wo.cloudfront.net/warehouse/caution/maps/vml-spm-f-raster-ordnance-survey.html" onclick="window.open('https://d3shei3jylo2wo.cloudfront.net/warehouse/caution/maps/vml-spm-f-raster-ordnance-survey.html', 'newwindow', 'width=1325,height=695'); return false;">VML SPM RASTER ORDNANCE SURVEY MAP</a>
 
 
 -   :fontawesome-solid-earth-europe:{ .lg .middle } __ESRI__
