@@ -8,6 +8,18 @@ icon: lucide/earth
     
     The schools layer is currently disabled because the location data of some schools is incorrect.  The layer will be enabled once a new data set is in place.
 
+<br>
+
+## maps
+
+<figure markdown="span">
+  ![TOOLS](../../images/tools.png)
+  <figcaption>Within a map, each gauge station's tooltip provides basic gauge station information, whilst its pop-up provides links to items of interest or import within the vicinity of the station.  The pop-up appears after clicking on a gauge station icon, i.e., a circle marker.</figcaption>
+</figure>
+
+
+<br>
+
 
 <div class="grid cards" markdown>
 
