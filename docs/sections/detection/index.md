@@ -4,7 +4,7 @@ icon: lucide/microscope
 
 # anomalies
 
-A set of plausible anomalies might be spikes, jumps, etc.  The metrics apply to the latest _60_ days; an adjustable variable.
+A set of plausible anomalies might be spikes, jumps, etc.  The metrics apply to the latest _60_ days; an adjustable variable.  Studying a gauge's anomalies graphs alongside its <a href="https://d3shei3jylo2wo.cloudfront.net/src/measures/continuous.html" onclick="window.open('https://d3shei3jylo2wo.cloudfront.net/src/measures/continuous.html', 'newwindow', 'width=1325,height=695'); return false;">continuous series</a> & <a href="https://d3shei3jylo2wo.cloudfront.net/src/quantiles/profiles.html" onclick="window.open('https://d3shei3jylo2wo.cloudfront.net/src/quantiles/profiles.html', 'newwindow', 'width=1325,height=695'); return false;">profile</a> helps.  
 
 <br>
 
