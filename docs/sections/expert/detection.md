@@ -20,7 +20,7 @@ The anomaly detection models are deep neural network models; long short-term mem
 
     ---
     
-    The _90_ & _10_ error percentiles.
+    The $90^{th}$ & $10^{th}$ error percentiles.
 
 </div>
 
