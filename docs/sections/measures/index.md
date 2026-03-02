@@ -20,6 +20,10 @@ The raw river level measures.  The continuous graphs illustrate each gauge stati
 
     ---
 
+-  :fontawesome-solid-circle-info:{ .lg .middle } &nbsp; <a href="https://d3shei3jylo2wo.cloudfront.net/src/quantiles/profiles.html" onclick="window.open('https://d3shei3jylo2wo.cloudfront.net/src/quantiles/profiles.html', 'newwindow', 'width=1325,height=695'); return false;">profiles</a>
+
+    ---
+
 </div>
 
 <br>

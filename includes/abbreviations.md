@@ -30,3 +30,8 @@
 *[JSON]: JavaScript Object Notation
 *[A&E]: Accident & Emergency
 *[AD]: Anomaly Detection
+*[VML]: Vector Map Local
+*[SPM]: Spherical Mercator
+*[BNG]: British National Grid
+*[MM]: MasterMap
+*[ESRI]: Environmental Systems Research Institute
