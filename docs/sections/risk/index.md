@@ -6,7 +6,7 @@ icon: lucide/octagon-alert
 
 ## mm/hr
 
-These artefacts outline the weighted rates of change of river levels within the vicinity of a gauge point.  Foremost, use the graphs
+These artefacts outline the weighted rates of change of river levels within the vicinity of a gauge point.  Per gauge station, the <a href="https://d3shei3jylo2wo.cloudfront.net/src/caution/curves.html" onclick="window.open('https://d3shei3jylo2wo.cloudfront.net/src/caution/curves.html', 'newwindow', 'width=1325,height=695'); return false;">weighted rates of change curves</a> illustrate weighted rates of change over time.   Use the graphs
 
 <div class="grid cards" markdown>
 
@@ -20,7 +20,7 @@ These artefacts outline the weighted rates of change of river levels within the 
 
 </div>
 
-to quickly pinpoint concerning areas.  Alternatively, use the table &Rarr;
+to quickly pinpoint concerning gauge station areas.  Alternatively, use the table &Rarr;
 
 <br>
 
@@ -35,10 +35,6 @@ to quickly pinpoint concerning areas.  Alternatively, use the table &Rarr;
     ---
 
 </div>
-
-<br>
-
-Per gauge station, the <a href="https://d3shei3jylo2wo.cloudfront.net/src/caution/curves.html" onclick="window.open('https://d3shei3jylo2wo.cloudfront.net/src/caution/curves.html', 'newwindow', 'width=1325,height=695'); return false;">weighted rates of change curves</a> illustrate weighted rates over time.  
 
 <br>
 <br>
