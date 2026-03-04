@@ -27,6 +27,8 @@ The raw river level measures.  The continuous graphs illustrate each gauge stati
 -  :fontawesome-solid-circle-info:{ .lg .middle } &nbsp; <a href="https://d3shei3jylo2wo.cloudfront.net/src/quantiles/profiles.html" onclick="window.open('https://d3shei3jylo2wo.cloudfront.net/src/quantiles/profiles.html', 'newwindow', 'width=1325,height=695'); return false;">profiles</a>
 
     ---
+     
+     Per gauge station, a profile summarises key characteristics of a station's river level measurements, e.g., the date recordings started, the minimum measure till date, etc.
 
 -  :fontawesome-brands-think-peaks:{ .lg .middle } &nbsp; <a href="https://d3shei3jylo2wo.cloudfront.net/src/quantiles/graphs.html" onclick="window.open('https://d3shei3jylo2wo.cloudfront.net/src/quantiles/graphs.html', 'newwindow', 'width=1325,height=695'); return false;">extrema, medians</a>
 
