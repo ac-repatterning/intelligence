@@ -59,8 +59,7 @@ nav = [
         { "experts" = [
             "sections/expert/index.md",
             { "anomalies" = "sections/expert/detection.md" },
-            { "forcasting" = "sections/expert/forecasting.md"},
-            { "drift" = "sections/expert/drift.md" }
+            { "forcasting" = "sections/expert/forecasting.md"}
         ]},
         "sections/assets/index.md"
     ]}
