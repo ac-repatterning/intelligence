@@ -12,11 +12,11 @@ The raw river level measures.  The continuous graphs illustrate each gauge stati
 
 <div class="grid cards" markdown>
 
--  :fontawesome-brands-think-peaks:{ .lg .middle } &nbsp; <a href="https://d3shei3jylo2wo.cloudfront.net/src/measures/continuous.html" onclick="window.open('https://d3shei3jylo2wo.cloudfront.net/src/measures/continuous.html', 'newwindow', 'width=1325,height=695'); return false;">continuous</a>
+-  :fontawesome-brands-think-peaks:{ .lg .middle } &nbsp; <a href="https://d3shei3jylo2wo.cloudfront.net/src/continuous/graphs.html" onclick="window.open('https://d3shei3jylo2wo.cloudfront.net/src/continuous/graphs.html', 'newwindow', 'width=1325,height=695'); return false;">continuous</a>
 
     ---
 
--  :fontawesome-brands-think-peaks:{ .lg .middle } &nbsp; <a href="https://d3shei3jylo2wo.cloudfront.net/src/measures/split.html" onclick="window.open('https://d3shei3jylo2wo.cloudfront.net/src/measures/split.html', 'newwindow', 'width=1325,height=695'); return false;">split</a>
+-  :fontawesome-brands-think-peaks:{ .lg .middle } &nbsp; <a href="https://d3shei3jylo2wo.cloudfront.net/src/split/graphs.html" onclick="window.open('https://d3shei3jylo2wo.cloudfront.net/src/split/graphs.html', 'newwindow', 'width=1325,height=695'); return false;">split</a>
 
     ---
 
