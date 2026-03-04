@@ -18,7 +18,7 @@ A set of plausible anomalies might be spikes, jumps, etc.  The metrics apply to 
 
     Use the table to quickly pinpoint the most concerning gauges.
 
--  :fontawesome-brands-think-peaks:{ .lg .middle } &nbsp; <a href="https://d3shei3jylo2wo.cloudfront.net/src/detection/graphs.html" onclick="window.open('https://d3shei3jylo2wo.cloudfront.net/src/detection/graphs.html', 'newwindow', 'width=1325,height=695'); return false;">graphs</a>
+-  :fontawesome-brands-think-peaks:{ .lg .middle } &nbsp; <a href="https://d3shei3jylo2wo.cloudfront.net/src/detection/graphs.html" onclick="window.open('https://d3shei3jylo2wo.cloudfront.net/src/detection/graphs.html', 'newwindow', 'width=1325,height=765'); return false;">graphs</a>
 
     ---
 
