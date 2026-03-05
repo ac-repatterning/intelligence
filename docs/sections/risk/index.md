@@ -6,33 +6,19 @@ icon: lucide/octagon-alert
 
 Herein, we consider risk vis-à-vis <i>weighted rates of change</i> of river levels.  The artefacts outline the weighted rates of change of river levels within the vicinity of a gauge point.  Per gauge station, the <a href="https://d3shei3jylo2wo.cloudfront.net/src/caution/curves.html" onclick="window.open('https://d3shei3jylo2wo.cloudfront.net/src/caution/curves.html', 'newwindow', 'width=1325,height=695'); return false;">weighted rates of change curves</a> illustrate weighted rates of change over time.
 
+<br>
 
 ## artefacts
 
-### graphs
+### GRAPHS & TABLES
 
 Hovering over a legend-catchment-name will bring the catchment's gauge station points into focus. To disable a catchment's points, click on its legend name. During a weather warning period beware of the values towards the right-hand-side of each graph; especially the latest (mm/hr) values. At a point in time, vis-à-vis latest (mm/hr) values,
 
-* INCREASES: These have the highest positive-weighted-rate-of-change values. The higher a gauge station's weighted-river-level-change value is - within a 15-minute or 1-hour period - the greater the risk of a problem in the vicinity.
-* DECREASES: These indicate negative-weighted-rate-of-change values. Do high negative values indicate a problem?
+* **increases**: These have the highest positive-weighted-rate-of-change values. The higher a gauge station's weighted-river-level-change value is - within a 15-minute or 1-hour period - the greater the risk of a problem in the vicinity.<br><br>:fontawesome-brands-think-peaks:{ .lg .middle } &nbsp; <a href="https://d3shei3jylo2wo.cloudfront.net/src/caution/graphs-increases.html" onclick="window.open('https://d3shei3jylo2wo.cloudfront.net/src/caution/graphs-increases.html', 'newwindow', 'width=1325,height=695'); return false;">increases</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :fontawesome-solid-table-cells:{ .lg .middle } &nbsp; <a href="https://d3shei3jylo2wo.cloudfront.net/src/caution/cells-increases.html" onclick="window.open('https://d3shei3jylo2wo.cloudfront.net/src/caution/cells-increases.html', 'newwindow', 'width=1325,height=695'); return false;">table</a><br><br>
+  
+* **decreases**: These indicate negative-weighted-rate-of-change values. Do high negative values indicate a problem?<br>:fontawesome-brands-think-peaks:{ .lg .middle } &nbsp; <a href="https://d3shei3jylo2wo.cloudfront.net/src/caution/graphs-decreases.html" onclick="window.open('https://d3shei3jylo2wo.cloudfront.net/src/caution/graphs-decreases.html', 'newwindow', 'width=1325,height=695'); return false;">decreases</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :fontawesome-solid-table-cells:{ .lg .middle } &nbsp; <a href="https://d3shei3jylo2wo.cloudfront.net/src/caution/cells-decreases.html" onclick="window.open('https://d3shei3jylo2wo.cloudfront.net/src/caution/cells-decreases.html', 'newwindow', 'width=1325,height=695'); return false;">table</a>
 
-
-<div class="grid cards" markdown>
-
--  :fontawesome-brands-think-peaks:{ .lg .middle } &nbsp; <a href="https://d3shei3jylo2wo.cloudfront.net/src/caution/graphs-increases.html" onclick="window.open('https://d3shei3jylo2wo.cloudfront.net/src/caution/graphs-increases.html', 'newwindow', 'width=1325,height=695'); return false;">increases</a>
-
-    ---
-     
-     Or a <a href="https://d3shei3jylo2wo.cloudfront.net/src/caution/cells-increases.html" onclick="window.open('https://d3shei3jylo2wo.cloudfront.net/src/caution/cells-increases.html', 'newwindow', 'width=1325,height=695'); return false;">table</a> to initially pinpoint areas of concern.
-
--  :fontawesome-brands-think-peaks:{ .lg .middle } &nbsp; <a href="https://d3shei3jylo2wo.cloudfront.net/src/caution/graphs-decreases.html" onclick="window.open('https://d3shei3jylo2wo.cloudfront.net/src/caution/graphs-decreases.html', 'newwindow', 'width=1325,height=695'); return false;">decreases</a>
-
-    ---
-
-   Or a <a href="https://d3shei3jylo2wo.cloudfront.net/src/caution/cells-decreases.html" onclick="window.open('https://d3shei3jylo2wo.cloudfront.net/src/caution/cells-decreases.html', 'newwindow', 'width=1325,height=695'); return false;">table</a> to quickly pinpoint areas of concern.
-
-</div>
-
+<br>
 
 ??? note "Extra Notes"
     
@@ -44,15 +30,11 @@ Hovering over a legend-catchment-name will bring the catchment's gauge station p
 
     The graph illustrates the maximum & latest weighted-rate-of-change value per gauge station, vis-à-vis blocks and time span; the unit of measure is millimetres/hour (mm/hr).
 
-
-<br>
 <br>
 
-## maps
+### MAPS
  
 Within these maps the <i>N</i> catchments that have the highest positive latest-millimetres-per-hour values are displayed by default, more can be enabled/disabled via the control.  The maps have different backgrounds, as their names indicate; everything else is the same.  **Note**, black gauge station markers denote positive latest-millimetres-per-hour values, wine gauge station markers denote the converse.
-
-<br><br>
 
 <div class="grid cards" markdown>
 
