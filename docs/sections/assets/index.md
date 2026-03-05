@@ -4,22 +4,20 @@ icon: lucide/earth
 
 # assets
 
-!!! tip "Important"
+The maps below pinpoint assets, e.g., gauge stations, care homes.  Each map has a different background, as their names indicate.  Use eacp map's collapsed control panel, on the right hand side, to focus on assets within a catchment of interest. The assets of a few random catchments are displayed by default.
+
+??? note "Extra Notes"
     
-    The schools layer is currently disabled because the location data of some schools is incorrect.  The layer will be enabled once a new data set is in place.
+    The schools layer, of each map, is currently disabled because the location data of some schools is incorrect.  The layer will be enabled once a new data set is in place.<br>
+    
+    Within each map, a circle marker denotes a gauge station.  The diagram below illustrates the tooltip & pop-up of a gauge station marker.  Each gauge station's tooltip provides basic gauge station information, whilst its pop-up provides links to items of interest, or import, within the vicinity of the station.  The pop-up appears after clicking on a gauge station marker.<br><br>
+    
+    <figure markdown="span">
+     ![TOOLS](../../images/tools.png)
+     <figcaption></figcaption>
+    </figure>
 
 <br>
-
-## maps
-
-<figure markdown="span">
-  ![TOOLS](../../images/tools.png)
-  <figcaption>Within a map, each gauge station's tooltip provides basic gauge station information, whilst its pop-up provides links to items of interest or import within the vicinity of the station.  The pop-up appears after clicking on a gauge station icon, i.e., a circle marker.</figcaption>
-</figure>
-
-
-<br>
-
 
 <div class="grid cards" markdown>
 
