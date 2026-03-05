@@ -4,7 +4,7 @@ icon: lucide/earth
 
 # assets
 
-The maps below pinpoint assets, e.g., gauge stations, care homes.  Each map has a different background, as their names indicate.  Use eacp map's collapsed control panel, on the right hand side, to focus on assets within a catchment of interest. The assets of a few random catchments are displayed by default.
+The maps below pinpoint assets, e.g., gauge stations, care homes.  Each map has a different background, as their names indicate.  Use each map's collapsed control panel, on the right hand side, to focus on assets within a catchment of interest. The assets of a few random catchments are displayed by default.
 
 ??? note "Extra Notes"
     
