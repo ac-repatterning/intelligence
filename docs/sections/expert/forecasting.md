@@ -4,7 +4,7 @@ icon: lucide/trending-up-down
 
 # the forecasting models
 
-The latest river level forecasting models are convolutional neural network models, i.e., deep neural network models.  Again, each gauge station has its model.  For a preview of model attributes, for a few gauges, study the previews section artefacts.
+The latest river level forecasting models are convolutional neural network models, i.e., deep neural network models.  Again, each gauge station has its model.  Initially, models re-training will occur often; more details upcoming.
 
 ## previews
 
@@ -28,7 +28,7 @@ Additionally
 
 <div class="grid cards" markdown>
 
--   <a data-preview href="https://d3shei3jylo2wo.cloudfront.net/src/architecture/arc-cnn/live/estimates.html" onclick="window.open('https://d3shei3jylo2wo.cloudfront.net/src/architecture/arc-cnn/live/estimates.html', 'newwindow', 'width=1325,height=695'); return false;">estimates</a>
+-   <a data-preview href="https://d3shei3jylo2wo.cloudfront.net/src/architecture/arc-cnn/live/estimates.html" onclick="window.open('https://d3shei3jylo2wo.cloudfront.net/src/architecture/arc-cnn/live/estimates.html', 'newwindow', 'width=1125,height=835'); return false;">estimates</a>
 
     ---
 
