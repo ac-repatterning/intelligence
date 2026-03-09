@@ -34,6 +34,11 @@ The raw river level measures.  The continuous graphs illustrate each gauge stati
 
     ---
 
+-  :fontawesome-brands-think-peaks:{ .lg .middle } &nbsp; <a href="https://d3shei3jylo2wo.cloudfront.net/src/contrasts/graphs.html" onclick="window.open('https://d3shei3jylo2wo.cloudfront.net/src/contrasts/graphs.html', 'newwindow', 'width=1325,height=695'); return false;">contrasts</a>
+
+    ---
+
+     A graph for comparing / contrasting the river level percentage changes vis-à-vis the gauge station measures of a catchment.
 
 </div>
 
