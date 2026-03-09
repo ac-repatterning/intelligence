@@ -40,6 +40,12 @@ Additionally
 
     The distribution of a gauge model's training & testing stage errors.
 
+-   <a data-preview href="https://d3shei3jylo2wo.cloudfront.net/src/architecture/arc-cnn/live/inference.html" onclick="window.open('https://d3shei3jylo2wo.cloudfront.net/src/architecture/arc-cnn/live/inference.html', 'newwindow', 'width=1125,height=835'); return false;">inference</a>
+
+    ---
+
+    Illustrations of inference per gauge station.
+
 </div>
 
 
