@@ -34,7 +34,7 @@ Additionally
 
     The training & testing stage estimates.
 
--   <a data-preview href="https://d3shei3jylo2wo.cloudfront.net/src/architecture/arc-cnn/live/percent-error.html" onclick="window.open('https://d3shei3jylo2wo.cloudfront.net/src/architecture/arc-cnn/live/percent-error.html', 'newwindow', 'width=1325,height=695'); return false;">error distribution</a>
+-   <a data-preview href="https://d3shei3jylo2wo.cloudfront.net/src/architecture/arc-cnn/live/percent-error.html" onclick="window.open('https://d3shei3jylo2wo.cloudfront.net/src/architecture/arc-cnn/live/percent-error.html', 'newwindow', 'width=925,height=695'); return false;">error distribution</a>
 
     ---
 
