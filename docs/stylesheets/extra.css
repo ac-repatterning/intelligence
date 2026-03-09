@@ -1,4 +1,8 @@
 
+.md-typeset {
+    font-size: 142.5%;
+}
+
 td {
     word-wrap: break-word;
 }
