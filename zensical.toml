@@ -53,6 +53,7 @@ nav = [
     # { "<img src='https://github.com/theartificialintelligenceunit/.github/raw/refs/heads/master/profile/start.svg' alt='Introduction'>" = "index.md" },
     { "<img src='https://github.com/theartificialintelligenceunit/.github/raw/refs/heads/master/profile/start.svg' alt='Introduction'>" = [
         "index.md",
+        "sections/warnings/index.md",
         "sections/measures/index.md",
         "sections/detection/index.md",
         "sections/risk/index.md",
