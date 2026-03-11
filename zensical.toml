@@ -14,7 +14,7 @@ site_dir = "site"
 # The site_name is shown in the page header and the browser window title
 #
 # Read more: https://zensical.org/docs/setup/basics/#site_name
-site_name = "<span style='color: black;'>INTELLIGENCE</span>"
+site_name = "<span style='color: black;'>RIVER LEVELS</span>"
 
 # The site_description is included in the HTML head and should contain a
 # meaningful description of the site content for use by search engines.
@@ -37,7 +37,7 @@ site_url = "https://ac-repatterning.github.io/intelligence"
 #
 # Read more: https://zensical.org/docs/setup/basics/#copyright
 copyright = """
-2025, &nbsp;<i>Intelligence</i>
+2025, &nbsp;<i>River Levels Intelligence</i>
 """
 
 # Zensical supports both implicit navigation and explicitly defined navigation.
