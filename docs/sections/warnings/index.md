@@ -10,7 +10,7 @@ If one or more SEPA gauge stations, on record, lie within a warning area, a temp
 
 For more about an inference model's attributes, study the [expert section](../expert/forecasting.md){ data-preview }.
 
-<iframe style="border: 0; width: 545px; height: 485px; margin-left: -65px;" src="https://d3shei3jylo2wo.cloudfront.net/src/warning/index.html"></iframe>
+<iframe style="border: 0; width: 6855px; height: 485px; margin-left: -65px;" src="https://d3shei3jylo2wo.cloudfront.net/src/warning/index.html"></iframe>
 
 <br>
 <br>
