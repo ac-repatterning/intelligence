@@ -6,6 +6,8 @@ icon: lucide/waypoints
 
 The anomaly detection models are deep neural network models; long short-term memory models.
 
+<br>
+
 ## overarching error perspectives
 
 The points that fall within, or close to, a graph's top-right-quadrant represent the weakest models; the weakness of each depends on their raw error values. 
