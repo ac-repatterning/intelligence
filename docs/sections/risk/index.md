@@ -4,7 +4,7 @@ icon: lucide/octagon-alert
 
 #  risk
 
-Herein, we consider risk vis-à-vis <i>weighted rates of change</i> of river levels.  The artefacts outline the weighted rates of change of river levels within the vicinity of a gauge point.  Per gauge station, the <a href="https://d3shei3jylo2wo.cloudfront.net/src/caution/curves.html" onclick="window.open('https://d3shei3jylo2wo.cloudfront.net/src/caution/curves.html', 'newwindow', 'width=1325,height=695'); return false;">weighted rates of change curves</a> illustrate weighted rates of change over time.
+Herein, we consider risk vis-à-vis <i>weighted rates of change</i> of river levels.  The artefacts outline the weighted rates of change of river levels within the vicinity of a gauge point.  Per gauge station, the <a href="https://d3shei3jylo2wo.cloudfront.net/src/caution/curves.html" onclick="window.open('https://d3shei3jylo2wo.cloudfront.net/src/caution/curves.html', 'newwindow', 'width=995,height=695'); return false;">weighted rates of change curves</a> illustrate weighted rates of change over time.
 
 <br>
 
