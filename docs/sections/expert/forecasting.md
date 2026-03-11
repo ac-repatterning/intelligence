@@ -6,7 +6,11 @@ icon: lucide/trending-up-down
 
 The latest river level forecasting models are convolutional neural network models, i.e., deep neural network models.  Again, each gauge station has its model.  Initially, models re-training will occur often; more details upcoming.
 
-## previews
+<br>
+
+## overarching error perspectives
+
+The points that fall within, or close to, a graph's top-right-quadrant represent the weakest models; the weakness of each depends on their raw error values.
 
 <div class="grid cards" markdown>
 
@@ -24,7 +28,10 @@ The latest river level forecasting models are convolutional neural network model
 
 </div>
 
-Additionally
+
+<br>
+
+## estimates, error distributions, inference
 
 <div class="grid cards" markdown>
 
